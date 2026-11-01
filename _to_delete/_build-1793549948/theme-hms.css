@@ -1,0 +1,5 @@
+
+/* ===== HMS theme ===== */
+:root{--grad-o:linear-gradient(90deg,#0B8A6D,#17B184)}
+.grad-o{background:linear-gradient(90deg,#34D399,#5EEAD4);-webkit-background-clip:text;background-clip:text;color:transparent}
+.cta-in p{color:#E6FFF6}
