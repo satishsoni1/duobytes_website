@@ -4,7 +4,7 @@
    PASTE YOUR IDs BELOW. Anything left as 'XXXX' is simply skipped.
    ===================================================================== */
 window.DB_TRACK = {
-  GA4_ID:        'G-XXXXXXXXXX',        // Google Analytics 4  → analytics.google.com
+  GA4_ID:        'G-LZXYK47WPB',        // Google Analytics 4  → analytics.google.com
   GOOGLE_ADS_ID: 'AW-XXXXXXXXXX',       // Google Ads tag      → ads.google.com › Tools › Conversions
   ADS_LEAD_LABEL:'XXXXXXXXXXXXXXXXXXX', // Conversion label for "Lead / Demo request"
   ADS_CALL_LABEL:'XXXXXXXXXXXXXXXXXXX', // Conversion label for "Click to call / WhatsApp" (optional)
