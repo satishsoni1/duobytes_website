@@ -1,0 +1,12 @@
+# DuoBytes Admin
+Options -Indexes
+DirectoryIndex index.php
+<IfModule mod_headers.c>
+Header set X-Robots-Tag "noindex, nofollow"
+Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+# block internal files
+<FilesMatch "^(config\.php|config\.sample\.php)$">
+Require all denied
+</FilesMatch>
+RedirectMatch 403 ^/admin/(inc|data)(/|$)

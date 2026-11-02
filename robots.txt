@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /_to_delete/
+Disallow: /admin/
 Disallow: /*.zip$
 
 Sitemap: https://www.duobytes.in/sitemap.xml

@@ -1,3 +1,6 @@
 _to_delete/
 *.zip
 .DS_Store
+# admin secrets & runtime data (created on the server)
+admin/config.php
+admin/data/
